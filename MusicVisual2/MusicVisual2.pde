@@ -4,7 +4,7 @@
  Version: 1.0
  Date: June 24th, 2018
  
- File: Piano.pde
+ File: MusicVisual2.pde
 
  Default Song: European Starling
  Artist: Chad Crouch

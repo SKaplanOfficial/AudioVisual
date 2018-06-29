@@ -13,7 +13,7 @@
 
  New In This Version:
  - Cleaned up code a bit
- */
+*/
 
 
 // Minim imports and vars

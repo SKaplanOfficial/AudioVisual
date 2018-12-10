@@ -51,8 +51,7 @@ void setup() {
 
   // Initialize minim object
   minim = new Minim(this);
-  //jingle = minim.loadFile("Chad Crouch - European Starling.mp3", 1024);
-  jingle = minim.loadFile("/Users/stevekaplan/Downloads/Green.mp3", 1024);
+  jingle = minim.loadFile("Chad Crouch - European Starling.mp3", 1024);
   fft = new FFT( jingle.bufferSize(), jingle.sampleRate() ); // Breaks down soundfile into individual frequencies to work with
 
   // Create rows of blocks, then columns
